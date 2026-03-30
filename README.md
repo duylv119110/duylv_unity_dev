@@ -46,7 +46,7 @@
     *   **Vai trò & Đóng góp (Main Dev):** Gánh vác logic chiến đấu tự động phức tạp và kho hệ thống vật phẩm (inventory & gear synergy). Đưa sản phẩm tới tay người dùng bản đầu trong vòng 1 tháng dưới mô hình 3 thành viên.
 
 *   **[Block Siege](https://play.google.com/store/apps/details?id=com.tetris.defense.tower)** *(Defense / Flow Strategy)*
-    *   **Vai trò & Đóng góp (Main Dev):** Dev chính (team 3 người, vòng đời 1.5 tháng). Xử lý code core gameplay rất mượt cho cơ chế kết hợp giữa tháp phòng thủ và khả năng sắp xếp block tương tác.
+    *   **Vai trò & Đóng góp (Main Dev):** Dev chính (team 3 người, vòng đời 3 tuần). Xử lý code core gameplay mượt cho cơ chế kết hợp giữa tháp phòng thủ và khả năng sắp xếp block tương tác.
 
 *   **[Dungeon Master Card Strategy](https://apps.apple.com/us/app/dungeon-master-card-strategy/id6757571330)** *(Card Strategy / RPG)*
     *   **Vai trò & Đóng góp:** Code codebase làm nền tảng cốt lõi, hiện thực hóa các chức năng mở rộng hệ thống lá bài chiến thuật và ruleset đánh lượt/đánh kích hoạt một cách bảo mật, không phá vỡ lõi game.
@@ -55,7 +55,7 @@
 
 *   **[Backpack Attack](https://play.google.com/store/apps/details?id=com.abi.backpack.attack&hl=vi)** *(Merge / Grid-Inventory)*
     *   **Mô tả:** Trò chơi chiến thuật quản lý túi đồ thu thập, ghép kết hợp để mang vào trận.
-    *   **Vai trò & Đóng góp (Main Dev):** Là dev mũi nhọn (team 3, 1.5 tháng cho v1). Sáng tạo logic grid-based inventory inventory (chứa không gian giới hạn), kết hợp hoàn hảo hệ thống chiến đấu tự động.
+    *   **Vai trò & Đóng góp (Main Dev):** Là dev mũi nhọn (team 3 người art, gd, dev | 1.5 tháng cho v1). Sáng tạo logic grid-based inventory inventory (chứa không gian giới hạn), kết hợp hoàn hảo hệ thống chiến đấu tự động.
 
 *   **[Screw Jam Puzzle: Nuts & Bolts](https://play.google.com/store/apps/details?id=com.ohze.screw.jam.puzzle&hl=vi)** *(Physics Puzzle)*
     *   **Mô tả:** Cơ chế giải đố logic tháo đinh ốc bằng thuật toán vật lý (Physics 2D).
