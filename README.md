@@ -1,15 +1,20 @@
-<div align="center">
-  <img src="avt.jpg" alt="Lương Văn Duy" width="150" height="auto" style="border-radius: 50%; object-fit: cover; border: 4px solid #fff; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
-  
-  # LƯƠNG VĂN DUY
-  **Tiêu điểm: Unity Game Developer | Tối ưu hiệu năng | Thiết kế kiến trúc Gameplay**
-</div>
+<img src="avt.jpg" alt="Lương Văn Duy" width="160" height="160" align="left" style="border-radius: 50%; object-fit: cover; border: 4px solid #fff; box-shadow: 0px 4px 10px rgba(0,0,0,0.1); margin-right: 30px; margin-bottom: 20px;">
 
-## 📌 Thông tin cá nhân
+# LƯƠNG VĂN DUY
+**Tiêu điểm: Unity Game Developer | Tối ưu hiệu năng | Thiết kế kiến trúc Gameplay**
+
+### 📌 Thông tin cá nhân
 - **Ngày sinh:** 11/09/2001
 - **Số điện thoại:** 0334978913
 - **Email:** ✉ [luongduy070211@gmail.com](mailto:luongduy070211@gmail.com)
 - **LinkedIn:** [Duy Luong](https://www.linkedin.com/in/duy-luong-a6139725a/)
+
+### 🎓 Học vấn
+**Đại học Giao thông Vận tải (University of Transport and Communications)** | *2020 - 2024*
+- GPA: 3.23/4.0
+- Kỹ sư Công nghệ thông tin (Information Technology)
+
+<br clear="left"/>
 
 ---
 
@@ -71,12 +76,6 @@
 *   **[Deep Dungeon: Explorer](https://apps.apple.com/us/app/deep-dungeon-explorer/id6758003522):** Làm mượt hệ thống camera khám phá hầm ngục và tương tác NPC.
 *   **[Fortress Roller](https://apps.apple.com/us/app/fortress-roller/id6756255267):** Tính toán engine vật lý lăn chướng ngại vật chống lại quân địch.
 *   **[Era Evolution](https://play.google.com/store/apps/details?id=com.game.up.era.evolution):** Hiện thực hoá cơ chế tiến hoá tài nguyên mô tuýp Idle/Incremental liên tục không gián đoạn.
-
----
-
-## 🎓 Học vấn
-**Đại học Giao thông Vận tải (University of Transport and Communications)** | *2020 - 2024*
-- Kỹ sư Công nghệ thông tin (Information Technology)
 
 ---
 *Tôi tự tin vào khả năng "thực chiến", tư duy tìm diệt bug (Debugging), định hình kiến trúc phần mềm và đặc biệt là tối ưu hóa. Rất mong có cơ hội được đồng hành và tạo ra những sản phẩm triệu user cùng bạn.*
