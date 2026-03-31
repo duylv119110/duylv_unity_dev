@@ -5,13 +5,15 @@
 
 <img src="avt.jpg" alt="Lương Văn Duy" width="160" align="left" style="border-radius: 8px; margin-right: 30px; margin-bottom: 20px;">
 
-### 📌 Thông tin cá nhân
+**<big>📌 Thông tin cá nhân</big>**
 - **Ngày sinh:** 11/09/2001
 - **Số điện thoại:** 0334978913
 - **Email:** ✉ [luongduy070211@gmail.com](mailto:luongduy070211@gmail.com)
 - **LinkedIn:** [Duy Luong](https://www.linkedin.com/in/duy-luong-a6139725a/)
 
-### 🎓 Học vấn
+<br>
+
+**<big>🎓 Học vấn</big>**  
 **Đại học Giao thông Vận tải (University of Transport and Communications)** | *2020 - 2024*
 - GPA: 3.23/4.0
 - Kỹ sư Công nghệ thông tin (Information Technology)
