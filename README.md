@@ -1,7 +1,9 @@
-<img src="avt.jpg" alt="Lương Văn Duy" width="160" height="160" align="left" style="border-radius: 50%; object-fit: cover; border: 4px solid #fff; box-shadow: 0px 4px 10px rgba(0,0,0,0.1); margin-right: 30px; margin-bottom: 20px;">
-
 # LƯƠNG VĂN DUY
 **Tiêu điểm: Unity Game Developer | Tối ưu hiệu năng | Thiết kế kiến trúc Gameplay**
+
+<br>
+
+<img src="avt.jpg" alt="Lương Văn Duy" width="160" align="left" style="border-radius: 8px; margin-right: 30px; margin-bottom: 20px;">
 
 ### 📌 Thông tin cá nhân
 - **Ngày sinh:** 11/09/2001
